@@ -7,7 +7,7 @@
 <h2 align="left">🔗 Connect With Me</h2>
 <pre align="center"> 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugan-2007-958374317/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sugan_2007/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SUGAN_2007)   
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugan-developer-958374317/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sugan_2007/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SUGAN_2007)   
     
 </pre> 
 
@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/SUGAN-dveloper">	
+  <a href="https://github.com/SUGAN-2007">	
     <img height="48%"  src="https://github-readme-stats.vercel.app/api?username=SUGAN-2007&theme=dark"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUGAN-2007&theme=github_dark" /><br>
     <img align='center' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-2007&theme=dark&layout=pie' />
