@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/SUGAN-2007">	
-    <img height="48%"  src="https://github-readme-stats.vercel.app/api?username=SUGAN-2007&theme=radical"/>
+    <img height="48%"  src="https://github-readme-stats.vercel.app/api?username=SUGAN-2007&theme=radical"/><br>
 <!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUGAN-2007&theme=github_dark" /><br> -->
     <img align='center' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-2007&theme=dark&layout=pie' />
     <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-2007&theme=github_dark' />
@@ -45,7 +45,8 @@
 
 <hr>
 
-### Leetcode Stats:
+###  Leetcode Stats:
+<br>
 <a href="https://leetcode.com/u/sugan-2007/">
 <p align='center'>	
 	<img src="https://leetcode.card.workers.dev/sugan-2007?theme=dark&font=patrick_hand&extension=null"/>
