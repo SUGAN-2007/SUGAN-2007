@@ -47,7 +47,7 @@
 
 ### Leetcode Stats:
 <a href="https://leetcode.com/u/sugan-2007/">
-	<img align='center' src="https://leetcode.card.workers.dev/sugan-2007?theme=dark&font=milonga&extension=null"/>
+	<img align='center' src="https://leetcode.card.workers.dev/sugan-2007?theme=dark&font=patrick_hand&extension=null"/>
 </a>
 <br>
 <hr>
