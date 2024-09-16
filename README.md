@@ -1,6 +1,6 @@
 	
 <h1 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
-  <p font-size'10px' align="center"> Hi, I'm SUGAN, a first-year graduate student in computer science. Excited to explore the area of Web development , Artificial intelligence , Software development  and looking forward to contributing to innovative solutions in the field .
+  <p align="center"> Hi, I'm SUGAN, a first-year graduate student in computer science. Excited to explore the area of Web development , Artificial intelligence  and looking forward to contributing to innovative solutions in the field .
   </p>
 <br>
 
@@ -21,7 +21,7 @@
   
   <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
 
-> ### Tools and Version control
+> ### Version control and Tools 
 <p align='center'>
 	<img width='70px' src='https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png'/><img width=70px src='https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png'/><img width = 70px src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'/>
 </p>
