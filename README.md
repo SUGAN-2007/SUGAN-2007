@@ -35,12 +35,12 @@
 ## ♾️  Github Stats:
 <br>
 
-<p align="center">
+<p align="center" >
   <a href="https://github.com/SUGAN-2007">	
-    <img height="48%"  src="https://github-readme-stats.vercel.app/api?username=SUGAN-2007&theme=radical"/><br>
+    <img height="48%"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-2007&theme=tokyonight"/><br>
 <!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUGAN-2007&theme=github_dark" /><br> -->
-    <img align='center' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-2007&theme=dark&layout=pie' />
-    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-2007&theme=github_dark' />
+    <img align='center' margin='20px' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-2007&theme=tokyonight&layout=pie' /><br>
+  <img	align = 'center'margin='20px' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-2007&theme=tokyonight'/> 
   </a>
 </p>
 
