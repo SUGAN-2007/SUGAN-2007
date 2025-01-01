@@ -46,7 +46,7 @@
 
 <hr>
 
-##  📊 Leetcode Stats:
+<!--##  📊 Leetcode Stats:
 <br>
 <a href="https://leetcode.com/u/sugan-2007/">
 <p align='center'>	
@@ -54,7 +54,7 @@
 </p>
 </a>
 <br>
-<hr>
+<hr>-->
 
 <br>
 
