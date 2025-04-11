@@ -18,7 +18,7 @@
 ## TECH STACKS
 > ## Languages 
 <p align='center'>
-<img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/>https://www.python.org<img width = 70px src= 				'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'/><img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/><img width = 70px src= 'https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png'/>
+<img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/><img width = 70px src= 				'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'/><img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/><img width = 70px src= 'https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png'/>
 </p>
   
   <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
