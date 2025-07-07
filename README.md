@@ -18,7 +18,7 @@
 ## TECH STACKS
 > ## Languages 
 <p align='center'>
-	<a href='https://skillicons.dev/'
+	<a href='https://skillicons.dev/'>
 	<img src= 'https://skillicons.dev/icons?i=css,html,js,py'>
 	</a>
 </p> 
