@@ -40,10 +40,10 @@
 
 <p align="center" >
   <a href="https://github.com/SUGAN-2007">	
-    <img height="48%"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-2007&theme=radical"/><br>
+    <img height="48%"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUGAN-2007&theme=dark"/><br>
 <!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUGAN-2007&theme=github_dark" /><br> -->
 <!--     <img align='center' margin='20px' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAN-2007&theme=radical&layout=pie' /><br> -->
-  <img	align = 'center'margin='20px' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-2007&theme=radical'/> 
+  <img	align = 'center'margin='20px' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUGAN-2007&theme=dark'/> 
   </a>
 </p>
 
