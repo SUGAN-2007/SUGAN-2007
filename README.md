@@ -18,21 +18,19 @@
 ## TECH STACKS
 > ## Languages 
 <p align='center'>
-	<img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'/>
-	<img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
-	<img width = 70px src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/>
-
-</p>
+	<a href='https://skillicons.dev/'
+	<img src= 'https://skillicons.dev/icons?i=css,html,js,py'>
+	</a>
+</p> 
   
   <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
 
 > ### Version control and Tools 
 <p align='center'>
-	<img width='70px' src='https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png'/><img width=70px src='https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png'/><img width = 70px src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'/>
+	<a href= 'https://skillicons.dev/'>
+		<img src= 'https://skillicons.dev/icons?i=git,github,vscode'>
+	</a>
 </p>
-  
-<!--  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
 
 
 <hr>
