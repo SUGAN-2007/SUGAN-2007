@@ -16,16 +16,21 @@
 <br>
 
 ## TECH STACKS
-> ## Languages 
+> ## Frontend 
 <p align='center'>
 	<a href='https://skillicons.dev/'>
-	<img src= 'https://skillicons.dev/icons?i=css,html,js,py'>
+	<img src= 'https://skillicons.dev/icons?i=css,html,js'>
+	</a>
+</p>
+
+> ## Languages
+<p align='center'>
+	<a href='https://skillicons.dev/'>
+		<img src= 'https://skillicons.dev/icons?i=py,c'>
 	</a>
 </p> 
   
-  <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
-
-> ### Version control and Tools 
+> ## Version control and Tools 
 <p align='center'>
 	<a href= 'https://skillicons.dev/'>
 		<img src= 'https://skillicons.dev/icons?i=git,github,vscode'>
