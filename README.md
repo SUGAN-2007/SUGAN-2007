@@ -5,7 +5,7 @@
 <br>
 
 <h2 align="left">🔗 Connect With Me</h2>
-<pre align="center" width='70px'> 
+<pre align="center" width='90px'> 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugap-priyan-195314361/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SUGAN_2007)  
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sugan_2007_/)-->
