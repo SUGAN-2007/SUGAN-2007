@@ -77,10 +77,10 @@
 <br>
 <hr>
 
-## 🏆 GitHub Trophies:
+<!--## 🏆 GitHub Trophies:
 <p align="center">
  <a href="https://github.com/SUGAN-2007">
 	<img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SUGAN-2007&theme=monokai&no-frame=false&no-bg=false&margin-w=4" /> 
  </a> 
-</p>
+</p>-->
 <hr>
