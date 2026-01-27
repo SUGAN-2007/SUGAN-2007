@@ -25,6 +25,13 @@
 	</a>
 </p>
 
+> ## Backend and Database
+<p align='center'>
+	<a href='https://skillicons.dev/'>
+	<img src= 'https://skillicons.dev/icons?i=nodejs,express,supabase'>
+	</a>
+</p>
+
 > ## Languages
 <p align='center'>
 	<a href='https://skillicons.dev/'>
@@ -35,7 +42,7 @@
 > ## Version control and Tools 
 <p align='center'>
 	<a href= 'https://skillicons.dev/'>
-		<img src= 'https://skillicons.dev/icons?i=git,github,vscode'>
+		<img src= 'https://skillicons.dev/icons?i=git,github,vscode,postman,vercel'>
 	</a>
 </p>
 
