@@ -1,6 +1,6 @@
 	
 <h1 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
-  <p align="center"> Hi, I'm SUGAPPRIYAN, a second-year graduate student in computer science engineering. Excited to explore the area of Web development , Artificial intelligence  and looking forward to contributing to innovative solutions in the field .
+  <p align="center"> Hi, I'm SUGAPPRIYAN, a second-year Computer Science Engineering graduate student. Interested in Web Development and Artificial Intelligence, I look forward to contributing to innovative solutions in the field and connecting with like-minded professionals.
   </p>
 <br>
 
